@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../vs code"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
